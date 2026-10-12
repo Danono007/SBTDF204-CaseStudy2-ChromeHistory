@@ -1,0 +1,14 @@
+original/
+working/
+output/
+History
+History_*
+*.db
+*.sqlite*
+*-journal
+*-wal
+*-shm
+screenshots/
+reports/
+*.docx
+*.zip
